@@ -16,7 +16,7 @@ const About = () => {
                     <AboutH2>Luis Mario Franco Gómez</AboutH2>
                 </AboutName>
                 <AboutProfession className="About-profession">
-                    <p>Aprendiz: Desarrollo Front End</p>
+                    <p>Desarrollador Full-Stack Node.Js</p>
                 </AboutProfession>
                 <AboutLocation className="About-description">
                     <p>Filandia - Quindio</p>
